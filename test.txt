@@ -1,0 +1,18 @@
+
+
+
+<idth,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link>
+
+
+<div className="flex-center-center w-100 bd-green" 
+        style={{objectFit:"cover",height:"35vh",
+                width:"100%",marginBottom:"1rem"
+        }}
+        > 
+          <embed style={{height:"100%",width:"100%"}}
+                src={videoLink}
+          />
+        </div>
+
+"https://www.youtube.com/embed/dgKSqz3it50"
+https://www.youtube.com/watch?v=dgKSqz3it50
